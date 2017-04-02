@@ -1,7 +1,10 @@
 # home_auto
 #1
 Simple home auto project using Atmega-16 MCU
-include:
+
+#Lib created from scratch...
+
+includes:
 
 >.hex and .aps files for AVR Studio [code]
 
