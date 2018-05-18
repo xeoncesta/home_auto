@@ -1,5 +1,4 @@
 # home_auto
-#1
 Home automation project using Atmega-16 MCU
 
 #Lib created from scratch...
